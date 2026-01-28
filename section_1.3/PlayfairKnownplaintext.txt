@@ -1,0 +1,14 @@
+Plaintext 0 is We are that far from a turnkey totalitarian state
+Ciphertext 0 is GWVANWKISDVACQHONVXUAMPWWMVNHPVNQAPEVWNVWE
+ 
+Plaintext 1 is Never underestimate the time and expense your opponent will take to break your code
+Ciphertext 1 is EIWAUXTMAZIWSNKNWNSMNWNHIPTMNZNIITPWLZZKNUELEITDSEMUMYVRNWLGZAVRWLXUGKGN
+ 
+Plaintext 2 is Cryptography is best left to those of a paranoid mindset
+Ciphertext 2 is KABYWMCZPNLSSFGPVWOPDSWMSMHWWZCINPAVEMNFHNTMWIWX
+ 
+Plaintext 3 is Cypherpunks write code Cypherpunks publish their code
+Ciphertext 3 is BVILAZYPAMVSQAWNGKGNBVILAZYPAMYIPLHPFQSMIAAKMGWE
+ 
+Plaintext 4 is We are legion We do not forgive We do not forget Expect us
+Ciphertext 4 is GWVAPOWOEHETNGMEMWGHZCASWGNGMEMWGHZCNWNZNIDVQY

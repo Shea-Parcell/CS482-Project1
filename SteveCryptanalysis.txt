@@ -10,3 +10,6 @@ Finally, look at the most frequently used trigraphs, and notice how some of them
 highest frequency for single use characters. TH and HE are in the highest frequency of digraphs, as well as E being in most pairs.
 THE is the most frequently used trigraph as well, so locking these three in makes adding the other less frequently used characters much easier.
 
+Key figured out.
+
+    For section 1.3,
