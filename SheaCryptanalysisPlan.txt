@@ -1,0 +1,10 @@
+1.2.2 - Plan
+
+To crack the simple monoalphabetic substitution cipher my approach is to use statistical characteristics
+By analyising the ciphertext and finding the most common letters in the ciphertext. 
+The most frequently appearing single letters in English are: E, T, A, O, N, I, S, R, and H. Knowing this 
+we can look at the ciphertext and make some guesstimates at what in the ciphertext might correspond to those letters
+
+Next by looking at the most common digraphs: TH, HE, AN, IN, ER, RE, and ES we can further guesstimate and find what fits best statistically
+And finally by looking at the most common trigraphs: THE, AND, THA, ENT, ION, TIO we can isolate portions of the ciphertext and use those portions to find other letters.
+For example we know that following THA that THAT could be the decrypted work or if not that then maybe THANK.
