@@ -1,0 +1,12 @@
+    For section 1.2, We advice to Eve would be to identify the frequency of single characters, digraphs, and trigraphs.
+
+Firstly, The single letters could directly be linked in order of frequency, so assigning the highest frequency ciphertext character 
+to e would be a smart move. Keep it going for the rest of the set of highest frequencies and note those. 
+
+Next, look at the digraphs and see what characters leak over from the single letters. Trying different frequently used characters 
+in place of others, like maybe T is the most frequently used instead of E, try it.
+
+Finally, look at the most frequently used trigraphs, and notice how some of them overlap. For instance, T, H, and E are all in the 
+highest frequency for single use characters. TH and HE are in the highest frequency of digraphs, as well as E being in most pairs.
+THE is the most frequently used trigraph as well, so locking these three in makes adding the other less frequently used characters much easier.
+
